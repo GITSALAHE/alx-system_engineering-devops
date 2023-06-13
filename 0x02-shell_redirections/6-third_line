@@ -1,2 +1,2 @@
 #!/bin/bash
-sh: 1: q: not found
+head -n 3 iacta |tail -n 1
